@@ -23,12 +23,9 @@ body {
 
 .container {
     
-
     .card {
         display: grid;
         
-
-
         .card-content {
             h2 {
                 font-size: 30px;
@@ -107,6 +104,7 @@ body {
             margin-top: 10px;
         }
     }
+    
     .container {
         max-width: 700px;
         margin: 20px auto;
@@ -130,7 +128,7 @@ body {
     }
 }
 @media screen and (max-width:575px) {
-    
+
     .header {
         width: 100%;
         background-color: #f8f8f855; 
